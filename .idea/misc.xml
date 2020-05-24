@@ -3,6 +3,7 @@
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/actuator-service" />
+    <file type="web" url="file://$PROJECT_DIR$/batch-processing" />
     <file type="web" url="file://$PROJECT_DIR$/consuming-rest" />
     <file type="web" url="file://$PROJECT_DIR$/messaging-rabbitmq" />
     <file type="web" url="file://$PROJECT_DIR$/messaging-redis" />
