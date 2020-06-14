@@ -10,6 +10,7 @@
     <file type="web" url="file://$PROJECT_DIR$/integration" />
     <file type="web" url="file://$PROJECT_DIR$/messaging-rabbitmq" />
     <file type="web" url="file://$PROJECT_DIR$/messaging-redis" />
+    <file type="web" url="file://$PROJECT_DIR$/messaging-stomp-websocket" />
     <file type="web" url="file://$PROJECT_DIR$/relational-data-access" />
     <file type="web" url="file://$PROJECT_DIR$/rest-hateoas" />
     <file type="web" url="file://$PROJECT_DIR$/rest-service" />
