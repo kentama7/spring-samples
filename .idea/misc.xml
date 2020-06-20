@@ -5,6 +5,7 @@
     <file type="web" url="file://$PROJECT_DIR$/actuator-service" />
     <file type="web" url="file://$PROJECT_DIR$/async-method" />
     <file type="web" url="file://$PROJECT_DIR$/batch-processing" />
+    <file type="web" url="file://$PROJECT_DIR$/caching" />
     <file type="web" url="file://$PROJECT_DIR$/consuming-rest" />
     <file type="web" url="file://$PROJECT_DIR$/handling-form-submission" />
     <file type="web" url="file://$PROJECT_DIR$/integration" />
