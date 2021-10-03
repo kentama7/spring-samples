@@ -5,3 +5,8 @@ updates:
     directory: "/layered/buildSrc"
     schedule:
       interval: "daily"
+
+  - package-ecosystem: "gradle"
+    directory: "/layered/buildSrc/src/main/groovy"
+    schedule:
+      interval: "daily"
