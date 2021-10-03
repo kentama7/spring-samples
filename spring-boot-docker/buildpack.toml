@@ -1,0 +1,4 @@
+
+[stack]
+  build-image = "spring-boot-docker"
+  run-image = "amazoncorretto:11"
