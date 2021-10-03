@@ -2,6 +2,6 @@ version: 2
 updates:
 
   - package-ecosystem: "gradle"
-    directory: "/layered"
+    directory: "/layered/buildSrc"
     schedule:
       interval: "daily"
